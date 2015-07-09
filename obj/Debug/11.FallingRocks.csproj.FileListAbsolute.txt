@@ -1,0 +1,11 @@
+D:\My Folder\Projects\Homework\ConsoleInputAndOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+D:\My Folder\Projects\Homework\ConsoleInputAndOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+D:\My Folder\Projects\Homework\ConsoleInputAndOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+D:\My Folder\Projects\Homework\ConsoleInputAndOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+D:\My Folder\Projects\Homework\ConsoleInputAndOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+D:\My Folder\School\Telerik\Software Academy\Homework\C#1\ConsoleInputAndOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+D:\My Folder\School\Telerik\Software Academy\Homework\C#1\ConsoleInputAndOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+D:\My Folder\School\Telerik\Software Academy\Homework\C#1\ConsoleInputAndOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+D:\My Folder\School\Telerik\Software Academy\Homework\C#1\ConsoleInputAndOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+D:\My Folder\School\Telerik\Software Academy\Homework\C#1\ConsoleInputAndOutput\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache
+D:\My Folder\School\Telerik\Software Academy\Homework\C#1\ConsoleInputAndOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
